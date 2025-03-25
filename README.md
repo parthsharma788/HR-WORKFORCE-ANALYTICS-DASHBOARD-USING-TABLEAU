@@ -5,20 +5,13 @@ This project generates a realistic human resources dataset for HR analytics and 
 
 The dataset can be used for Power BI, Tableau, or Python-based HR dashboards, providing insights into employee trends, hiring patterns, performance analysis, and salary distribution.
 
-Features
+*Features*
 
-Summary View
-
+**Summary View
 Total hired, active, and terminated employees over the years
-
 Employee distribution by department, job title, city, and state
-
 Gender ratio and workforce demographics
-
 Education level distribution and correlation with performance
-
 Salary comparison across education levels, age groups, and genders
-
 Employee Records View
-
-Detailed list of employees with filtering options for in-depth analysis
+Detailed list of employees with filtering options for in-depth analysis**
