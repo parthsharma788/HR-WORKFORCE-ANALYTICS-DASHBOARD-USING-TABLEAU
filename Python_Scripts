@@ -1,3 +1,5 @@
+# Python scripts for generating the dataset
+
 import pandas as pd
 import numpy as np
 from faker import Faker
