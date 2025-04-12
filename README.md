@@ -1,12 +1,12 @@
-# HUMAN-RESOURCE WORKFORCE ANALYTICS DASHBOARD USING TABLEAU
+# 🚀📊HUMAN-RESOURCE WORKFORCE ANALYTICS DASHBOARD USING TABLEAU
 
-## Overview
+## 📌Overview
 
 This project generates a realistic human resources dataset for HR analytics and visualization in dashboards. The dataset consists of 8,950 employee records, covering essential HR attributes such as demographics, job details, salary, and performance metrics.
 
 The dataset can be used for Power BI, Tableau, or Python-based HR dashboards, providing insights into employee trends, hiring patterns, performance analysis, and salary distribution.
 
-## Features
+## 📝Features
 
 1.Summary View
 
