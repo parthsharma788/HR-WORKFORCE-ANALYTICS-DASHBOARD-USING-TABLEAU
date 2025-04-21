@@ -23,3 +23,6 @@ The dataset can be used for Power BI, Tableau, or Python-based HR dashboards, pr
 7.Employee Records View
 
 8.Detailed list of employees with filtering options for in-depth analysis
+
+### Author - Parth Sharma
+### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
