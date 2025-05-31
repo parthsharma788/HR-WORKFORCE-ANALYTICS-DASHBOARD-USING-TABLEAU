@@ -27,3 +27,6 @@ The dataset can be used for Power BI, Tableau, or Python-based HR dashboards, pr
 ### Author - Parth Sharma
 ### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
 ### Email: Parthsharma2300@gmail.com
+
+
+⭐ If you found this helpful, consider giving it a star!
