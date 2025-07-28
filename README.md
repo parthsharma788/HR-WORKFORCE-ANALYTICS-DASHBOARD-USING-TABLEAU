@@ -1,6 +1,6 @@
 # 🚀📊HUMAN-RESOURCE WORKFORCE ANALYTICS DASHBOARD USING TABLEAU
 
-<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/37c980fb-4255-4d6f-9b20-8e524ba6b5c3" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/37c980fb-4255-4d6f-9b20-8e524ba6b5c3" />
 
 
 ## 📌Overview
