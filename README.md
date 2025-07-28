@@ -1,5 +1,8 @@
 # 🚀📊HUMAN-RESOURCE WORKFORCE ANALYTICS DASHBOARD USING TABLEAU
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/37c980fb-4255-4d6f-9b20-8e524ba6b5c3" />
+
+
 ## 📌Overview
 
 This project generates a realistic human resources dataset for HR analytics and visualization in dashboards. The dataset consists of 8,950 employee records, covering essential HR attributes such as demographics, job details, salary, and performance metrics.
